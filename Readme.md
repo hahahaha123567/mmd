@@ -13,3 +13,5 @@ prectice with three.js
 [sample](https://hahahaha123567.github.io/mmd/sample.html)
 
 [sample-audio](https://hahahaha123567.github.io/mmd/sample-audio.html)
+
+[test](https://hahahaha123567.github.io/mmd/test.html) // under construction
