@@ -8,3 +8,8 @@ prectice with three.js
 
 [MMDLoader.js](https://github.com/takahirox/MMDLoader-app)
 
+# Demo
+
+[sample](https://hahahaha123567.github.io/mmd/sample.html)
+
+[sample-audio](https://hahahaha123567.github.io/mmd/sample-audio.html)
